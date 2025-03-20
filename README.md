@@ -26,18 +26,5 @@ To recognise the emotions of the human face using CNN algorithm.
 * The downloaded databases was extremely biased.
 * Not easily accessible datasets.
 * Creating our own data was quite difficult.
-# 1.6 RESULTS:
-* Happy face
-![](Sample/happy.png)
-* Sad face
-![](Sample/sad.png)
-* Angry face
-![](Sample/angry.png)
-* Neutral face
-![](Sample/neutral.png)
-* Surprised face
-![](Sample/surprised.png)
-# watch the complete output here
-https://youtu.be/jnS3BogBTtM
-# 1.7 REFERENCE
+
 Octavio Arriaga Et Al., “Real-time Convolutional Neural Networks for Emotion and Gender Classification” ,2017.
