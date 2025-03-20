@@ -37,7 +37,6 @@ To recognise the emotions of the human face using CNN algorithm.
 ![](Sample/neutral.png)
 * Surprised face
 ![](Sample/surprised.png)
-# watch the complete output here
-https://youtu.be/jnS3BogBTtM
+
 # 1.7 REFERENCE
 Octavio Arriaga Et Al., “Real-time Convolutional Neural Networks for Emotion and Gender Classification” ,2017.
